@@ -4,24 +4,24 @@
 
 ## Junior Frontend Developer
 
-## Contact information:
+### Contact information:
 **Phone:** +38 097 5185404
 
 **E-mail:** pererva.n@gmail.com
 
-## About Myself:
+### About Myself:
 
 - I have experience in software sales
 - Сomposed ten web-sites on Tilda and after this I decided that I wanted to be a front-end developer
 
-## Skills and Proficiency:
+### Skills and Proficiency:
 - HTML5, CSS3
 - Git, GitHub
 - VS Code
 - JavaScript Basics
 - Canva
   
-## Code example:
+### Code example:
 ```js
 'use strict';
 /**
@@ -65,11 +65,11 @@ countCommision(500, 'UAH'); // ===> 10
 countCommision(2000, 'UAH'); // ===> 20
 ```
 
-## Courses:
+### Courses:
 - [RS Schools Course «JavaScript/Front-end. Stage 0»](https://rs.school/js-stage0/) (in progress)
 - [Gromcode Javascript-basics](https://gromcode.com/)
 
-## Languages:
+### Languages:
 - English - pre-Intermediate
 - Russian - Native
 - Ukrainian - Native
