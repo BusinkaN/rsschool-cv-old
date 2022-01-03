@@ -5,8 +5,8 @@
 ## Junior Frontend Developer
 
 ### Contact information:
-**Phone:** +38-097-518-54-04
-**E-mail:** pererva.n[аt]gmail.com
+- **Phone:** +38-097-518-54-04
+- **E-mail:** pererva.n[аt]gmail.com
 
 ### About Myself:
 
