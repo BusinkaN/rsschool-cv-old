@@ -21,7 +21,7 @@
 - Canva
   
 ### Code example:
-```
+```js
 'use strict';
 /**
  * @param {number} amount
